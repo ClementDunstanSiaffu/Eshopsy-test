@@ -68,8 +68,12 @@ const handleClick = ()=>{
          
            <div>
                <span  className = "put-right">
+               <a href = "https://eshopsy.vercel.app/sign" >
                <span className="sign-up">Sign up</span>
+               </a>
+               <a href = "https://eshopsy.vercel.app/login">
                <span className="login"><PersonIcon style={{marginTop:-7}}/>Login</span>
+               </a>
                </span>
             </div>
 
