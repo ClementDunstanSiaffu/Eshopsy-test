@@ -18,7 +18,7 @@ function BookPage ({data}){
 }
 
 BookPage.getInitialProps = async ()=>{
-const response = await fetch('http://localhost:3000/api/bookApi')
+const response = await fetch('https://eshopsy.vercel.app/api/bookApi')
 const data = await response.json()
 return {data}
 }

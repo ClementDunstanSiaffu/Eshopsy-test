@@ -18,7 +18,7 @@ function ShoePage ({data}){
 }
 
 ShoePage.getInitialProps = async ()=>{
-    const response = await fetch('http://localhost:3000/api/shoeApi')
+    const response = await fetch('https://eshopsy.vercel.app/api/shoeApi')
     const data = await response.json()
     return {data}
 

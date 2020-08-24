@@ -19,7 +19,7 @@ function ElectronicPage ({data}){
 }
 
 ElectronicPage.getInitialProps = async ()=>{
-    const response = await fetch('http://localhost:3000/api/electronicApi')
+    const response = await fetch('https://eshopsy.vercel.app/api/electronicApi')
     const data = await response.json()
     return {data}
 }
