@@ -83,7 +83,7 @@ function Electronic ({data1}){
                            </div>
                            </Col>))}
                            </span>
-                           <a href = "http://localhost:3000/electronicPage"><button className = "butt-more-men">
+                           <a href = "https://eshopsy.vercel.app/electronicPage"><button className = "butt-more-men">
                              More...
                            </button></a>
      

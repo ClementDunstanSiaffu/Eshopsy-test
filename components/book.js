@@ -87,7 +87,7 @@ function Book ({data2}){
                            </div>
                            </Col>))}
                            </span>
-                           <a href = "http://localhost:3000/bookPage"><button className = "butt-more-men">
+                           <a href = "https://eshopsy.vercel.app/bookPage"><button className = "butt-more-men">
                              More...
                            </button></a>
      

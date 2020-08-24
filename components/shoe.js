@@ -87,7 +87,7 @@ function Shoe ({data}){
                               </div>
                               </Col>))}
                               </span>
-                              <a href = "http://localhost:3000/shoePage"><button className = "butt-more-men">
+                              <a href = "https://eshopsy.vercel.app/shoePage"><button className = "butt-more-men">
                                 More...
                               </button></a>
         
