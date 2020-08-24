@@ -2,8 +2,8 @@
 
 import React,{useEffect,useState} from 'react';
 import {Dropdown,DropdownItem,DropdownMenu,DropdownToggle} from 'reactstrap';
-const ClothIcon = require('../assets/images/ClothIcon.png');
-const ShoeIcon = require('../assets/images/ShoeIcon.png');
+const ClothIcon = require('../assets/images/clothIcon.png');
+const ShoeIcon = require('../assets/images/shoeIcon.png');
 //import ClothIcon from '../assets/images/ClothIcon.PNG';
 import LocalMallIcon from '@material-ui/icons/LocalMall';
 //import ShoeIcon from '../assets/images/ShoeIcon';
