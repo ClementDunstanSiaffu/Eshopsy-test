@@ -1,0 +1,1128 @@
+
+.header{
+    height: 125px;
+    border-bottom: solid 4px orange;
+    max-width: 100%;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.put-right{
+    float: right;
+    padding-right: 40px;
+    margin-top: 65px;
+}
+
+.sign-up{
+    margin-right: 40px;
+    color: rgb(15, 15, 173);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.login{
+    color: rgb(15, 15, 173);
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.container-search{
+  margin-left: 250px;
+  transition: linear 0.8s;
+  position: absolute;
+  
+}
+
+.container-search-two{
+    visibility: hidden;
+    position: absolute;
+    margin-left: 450px;
+    
+}
+
+.input-search{
+    margin-top: 80px;
+    width: 220px;
+    border-radius: 5px;
+    border:2px solid lightgrey;
+    margin-left:100px;
+    outline: none;
+}
+
+.butt-search{
+    margin-left: 5px;
+    background-color: white;
+    border:2px solid lightgrey;
+    border-radius: 5px;
+}
+
+button.butt-search{
+    outline: none;
+}
+
+.icon{
+    margin-top: 4px;
+    margin-left: 7px;
+    position: absolute;
+    z-index: 10;
+}
+
+.content{
+    margin-top: 21px;
+    margin-left: 100px;
+    position: absolute;
+    width: 600px;
+    visibility: visible;
+    transition:linear 0.8s ;
+}
+
+.content1{
+    margin-top: 21px;
+    margin-left: -300px;
+    position: absolute;
+    width: 600px;
+    visibility: hidden;
+    transition:linear 0.8s ;
+}
+
+
+/*div.animated.fadeInLeft{
+ width: 50px;
+    
+}
+div.animated.slideOutLeft{
+   width: 50px;
+}*/
+
+.back{
+    width:100px;
+    background-color: white;
+    position: absolute;
+    z-index: 10;
+    margin-left: -20px;
+    margin-top: 20px;
+ 
+    height: 80px;
+}
+
+.categories{
+    margin-right: 30px;
+}
+
+.my-account{
+    margin-left: 160px;
+    margin-top: -23px;
+    color: orange;
+    position: absolute;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.my-help{
+    margin-left: 270px;
+    margin-top: -23px;
+    color: orange;
+    position: absolute;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+/* eshopsy */
+@media only screen and (max-width:480px){
+    .eshopsy{
+        color: orange;
+        font-size: 20px;
+        margin-left: 150px;
+        margin-top: 3px;
+        position:absolute;
+        transition: linear 0.8s;
+        font-weight: 800;
+} }
+@media only screen and (min-width:480px){
+    .eshopsy{
+        color: orange;
+        font-size: 40px;
+        margin-left: 450px;
+        margin-top: 3px;
+        position:absolute;
+        transition: linear 0.8s;
+        font-weight: 800;
+} }
+@media only screen and (min-width:768px){
+    .eshopsy{
+        color: orange;
+        font-size: 40px;
+        margin-left: 450px;
+        margin-top: 3px;
+        position:absolute;
+        transition: linear 0.8s;
+        font-weight: 800;
+} }
+@media only screen and (min-width:992px){
+    .eshopsy{
+        color: orange;
+        font-size: 40px;
+        margin-left: 450px;
+        margin-top: 3px;
+        position:absolute;
+        transition: linear 0.8s;
+        font-weight: 800;
+} }
+@media only screen and (min-width:1200px){
+    .eshopsy{
+        color: orange;
+        font-size: 40px;
+        margin-left: 450px;
+        margin-top: 3px;
+        position:absolute;
+        transition: linear 0.8s;
+        font-weight: 800;
+} }
+
+/* eshopsy ends here */
+
+/*.eshopsy{
+    color: orange;
+    font-size: 40px;
+    margin-left: 450px;
+    margin-top: 3px;
+    position:absolute;
+    transition: linear 0.8s;
+    font-weight: 800;
+}*/
+
+/* eshop */
+
+@media only screen and (max-width:480px){
+    .eshop{
+    color: orange;
+    font-size: 20px;
+    margin-left: 80px;
+    margin-top: 3px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}}
+@media only screen and (min-width:480px){
+    .eshop{
+    color: orange;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 3px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}}
+@media only screen and (min-width:768px){
+    .eshop{
+    color: orange;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 3px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}}
+@media only screen and (min-width:992px){
+    .eshop{
+    color: orange;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 3px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}}
+@media only screen and (min-width:1200px){
+    .eshop{
+    color: orange;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 3px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}}
+
+
+
+
+/* eshop ends here */
+
+/*
+.eshop{
+    color: orange;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 3px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}*/
+
+.humb-button{
+    width: 50px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: white;
+    border-color:white;
+    border:none;
+}
+
+button.humb-button:hover{
+    width: 50px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: white;
+    border:solid 2px white;
+    outline: none;
+    box-shadow:-1px 2px lightgrey;
+}
+
+
+button.humb-button:focus{
+    width: 50px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color:white;
+    border:1px solid lightgrey;
+    outline: none;
+}
+
+
+
+
+button.humb-button:active{
+    width: 65px;
+    height: 50px;
+    margin-left: 35px;
+    margin-top: 10px;
+    background-color: white;
+    box-shadow:-1px 2px lightgrey;
+    outline: none;
+}
+
+.drop-down{
+    border:none;
+    background-color: white;
+    color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+}
+
+.drop-down:hover{
+    color:black;
+    background-color: white;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.drop-down-active{
+    outline: none;
+    background-color: white;
+    color: black;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.drop-down:focus{
+    outline: none;
+    background-color: white;
+    color: black;
+}
+
+/*.drop-down:focus{
+    outline: none;
+    background-color: white;
+    color: black;
+}
+
+.drop-down:active{
+    outline: none;
+    background-color: white;
+    color: black;
+}
+
+button.drop-down.dropdown.toggle.btn.btn-secondary:focus{
+    outline: none;
+    background-color: white;
+    color: black;
+}*/
+
+#extended-area{
+  padding-bottom: 20px;
+  
+  
+
+  
+    
+}
+
+.menu{
+    margin-top: 0px;
+    margin-left: -20px;
+    background-color: orange;
+    
+   
+}
+
+.item{
+    padding: 20px;
+    
+}
+.item:hover{
+    background-color: orange;
+    color: black;
+    outline: none;
+}
+
+
+
+.icon-logo{
+    margin-right: 10px;
+}
+
+a.word-item{
+    color: white;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a.word-item:hover{
+    color: black;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.image{
+    width: 150px;
+    height: 150px;
+    margin-left: 125px;
+    position: absolute;
+    z-index: -10;
+}
+
+.all-image1{
+    margin-top: 100px;
+    border: 1px solid lightgray;
+    width: 400px;
+    height: 300px;
+    border-top: none;
+    
+    box-shadow: -1px 3px lightgray;
+    margin-left: -30px;
+   
+}
+
+.all-image2{
+    margin-top: 100px;
+    border: 1px solid lightgray;
+    margin-left: -30px;
+    width: 400px;
+    height: 300px;
+    border-top: none;
+    box-shadow: -1px 3px lightgray;
+    
+}
+
+.all-image3{
+    margin-top: 100px;
+    border: 1px solid lightgray;
+    width: 400px;
+    height: 300px;
+    margin-left: -33px;
+    border-top: none;
+    border-left: none;
+    box-shadow: 1px 3px lightgray;
+}
+
+.outer-container-items{
+    min-width: 90%;
+    margin-left: 30px;
+    margin-top: 50px;
+   
+   
+}
+
+.outer-container-items-all{
+    min-width: 90%;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+   
+}
+
+
+.outer-container-electronics{
+    min-width: 90%;
+    margin-left: 30px;
+    margin-top: 50px;
+    
+}
+
+.outer-container-electronics-all{
+    min-width: 90%;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+}
+
+.outer-container-books{
+    min-width: 90%;
+    margin-left: 30px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+
+.outer-container-books-all{
+    min-width: 90%;
+    margin-left: 30px;
+    margin-top: 40px;
+    margin-bottom: 70px;
+   
+}
+
+
+
+/*.col-1{
+    margin-left: -300px;
+}*/
+
+.all-content{
+  display: flex;
+  flex-wrap: wrap;
+  margin-right: -100px;
+  margin-left: 40px;
+ 
+}
+
+.item-title{
+    margin-left: -20px;
+    position: absolute;
+    font-size: 28px;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+    z-index: -10;
+}
+
+.butt-more-men{
+    width:120px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left:600px;
+    margin-top:20px;
+    background-color: white;
+    border-color:darkblue;
+    font-weight: 600;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 18px;
+}
+
+button.butt-more-men:focus{
+  outline: none;
+}
+
+button.butt-more-men:hover{
+    outline: none;
+    background-color: blue;
+  }
+
+.name-items{
+    margin-top: 160px;
+    margin-left: 150px;
+    position: absolute;
+}
+
+.amount{
+    font-weight: 500;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.take-item{
+    margin-top: -23px;
+    /*margin-left: 23px;*/
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 500;
+    text-align: center;
+}
+
+.buy{
+    margin-left: -18px;
+    margin-top: -15px;
+    border-color:orange ;
+    width: 130px;
+    height: 45px;
+    background-color:orange;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+button.buy:focus{
+    outline: none;
+}
+
+.outer-container-upload{
+    margin: 20px auto;
+}
+
+.inner-container-upload{
+    margin:0px auto;
+}
+
+.upload-form{
+   margin: 0px auto;
+   border: solid 1px black;
+   width: 35%;
+   height: 580px;
+   background-color: orange;
+}
+.upload-name-container{
+    margin-top: 20px;
+    margin-bottom: -50px;
+}
+
+.upload-name{
+    margin: 0px 0px 0px 200px;
+    display: flex;  
+}
+
+.name-upload{
+    margin:0px 0px 0px 22px;
+    display: flex; 
+    width: 430px;
+}
+
+input.name-upload{
+    outline: none;
+}
+
+.upload-price-container{
+    margin-top: 70px;
+    margin-bottom: -70px;
+}
+
+.upload-price{
+    margin: 0px 0px 0px 200px;
+    display: flex;
+}
+.price{
+    margin:0px 0px 0px 22px;
+    display: flex; 
+    width: 430px;  
+}
+input.price{
+    outline: none;
+}
+
+.choose-file{
+    
+    margin: 110px 0px -150px 50px;
+}
+
+.categories-select-container{
+    margin-top: 170px;
+    margin-bottom: -80px;
+}
+.categories-label{
+    margin: 0px 0px 0px 200px;
+    display: flex;
+}
+.for-select-upload-container{
+    margin:0px 0px 0px 22px;
+    display: flex;
+}
+
+.for-select-upload{
+   width: 430px;  
+}
+
+select.for-select-upload{
+    outline: none;
+}
+
+.upload-text{
+    height: 150px;
+   display: flex;
+    margin: 100px auto -50px auto;
+}
+textarea.upload-text{
+    outline: none;
+}
+
+/*.submit-butt-upload-container{
+    margin: 0px auto;
+}*/
+.butt-submit-upload{
+    margin: 70px auto;
+    display: flex;
+    width: 200px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    text-align: center;
+}
+
+.upload-butt-text{
+    display: flex;
+    font-size: 16px;
+    margin: auto auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.eshopsy-login{
+    color: orange;
+    font-size: 40px;
+    margin-left: 450px;
+    margin-top: 58px;
+    position:absolute;
+    transition: linear 0.8s;
+    font-weight: 800;
+}
+
+.eshop-login{
+    color: orange;
+    font-size: 40px;
+    margin-left: 80px;
+    margin-top: 58px;
+    position:absolute;
+    font-weight: 800;
+    transition: linear 0.8s;
+}
+
+.container-search-login{
+    margin-left: 250px;
+    transition: linear 0.8s;
+    position: absolute;
+    
+  }
+  
+  .container-search-two-login{
+      visibility: hidden;
+      position: absolute;
+      margin-left: 450px;
+      
+  }
+  
+  .input-search-login{
+      margin-top: 80px;
+      width: 220px;
+      border-radius: 5px;
+      border:2px solid lightgrey;
+      margin-left:100px;
+      outline: none;
+  }
+  
+  .butt-search-login{
+      margin-left: 5px;
+      background-color: orange;
+      border:1px solid orange;
+     
+      width: 180px;
+  }
+  
+  button.butt-search-login{
+      outline: none;
+  }
+
+  .upper-part{
+      margin: 50px auto;
+      width: 35%;
+      height: 60px;
+      border: 1px solid rgba(227, 235, 227 ,0.5);
+      box-shadow: 4px 6px 7px 2px rgba(48, 49, 48, 0.2), -1px -2px 7px 2px rgba(48, 49, 48 ,0.2);
+      border-radius: 4px;
+  }
+
+  .upper-part>h1{
+
+    color: orange;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 600;
+  }
+
+  .outer-container-login{
+    margin: -37px auto;
+}
+
+.inner-container-login{
+    margin:0px auto;
+}
+
+.login-form{
+   margin: 0px auto;
+   border: 1px solid rgba(227, 235, 227 ,0.5);
+   box-shadow: 4px 6px 7px 2px rgba(48, 49, 48, 0.2), -1px -2px 7px 2px rgba(48, 49, 48 ,0.2);
+   width: 35%;
+   height: 350px;
+   background-color: white;
+}
+.login-phone-container{
+    margin-top: 0px;
+    margin-bottom: -50px;
+}
+
+.login-phone{
+    margin: 0px 0px 0px 200px;
+    display: flex; 
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif; 
+}
+
+.phone-login{
+    margin:0px auto;
+    display: flex; 
+    width: 330px;
+    border: 2px solid lightgrey;
+    border-radius: 4px;
+}
+
+input.phone-login{
+    outline: none;
+}
+
+.login-password-container{
+    margin-top: 60px;
+    margin-bottom: -70px;
+}
+
+.login-password{
+    margin: 0px 0px 0px 200px;
+    display: flex;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif; 
+}
+.password{
+    margin:0px auto;
+    display: flex; 
+    width: 330px;
+    border: 2px solid lightgrey;
+    border-radius: 4px;  
+}
+input.password{
+    outline: none;
+}
+
+
+
+
+
+
+
+/*.submit-butt-upload-container{
+    margin: 0px auto;
+}*/
+.butt-submit-login{
+    margin: 90px auto;
+    display: flex;
+    width: 330px;
+    height: 30px;
+    background-color: orange;
+    color: black;
+    border: 1px solid orange;
+    text-align: center;
+    border-radius: 4px;
+}
+
+.login-butt-text{
+    display: flex;
+    font-size: 16px;
+    margin: auto auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button.butt-submit-login{
+    outline: none;
+}
+
+.privacy{
+    margin-top: -80px;
+    font-size: 14px;
+    color: grey;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.new-user{
+    text-align: center;
+    font-size: 24px;
+    color: grey;
+    margin-top: -5px;
+}
+
+.create-new-account{
+    width: 280px;
+    border: 2px solid lightgrey;
+    height: 40px;
+    margin: 30px auto;
+    color: black;
+    background-color: whitesmoke;
+    display: flex;
+    border-radius: 4px;
+    
+}
+
+.text-create-account{
+    margin:auto auto;
+    display: flex;
+}
+
+ a:hover{
+    text-decoration: none;
+}
+
+.outer-container-sign{
+    margin-top: 0px;
+}
+
+.row-sign{
+    display: flex;
+    flex-wrap: wrap;
+    margin:0px 0px;
+}
+
+.label-sign-container{
+
+    width: 220px;
+}
+
+.container-left-signup{
+    margin-top:100px;
+    border-right: 1px solid black;
+    width: 50%;
+    
+}
+
+.text-left-signup{
+    font-size: 20px;
+    text-align: center;
+}
+
+.form-left-signup{
+    padding-left:20px;
+    margin-bottom: 50px;
+}
+
+.content-left-signup{
+    padding-left: 40px;
+}
+
+.label-signUp{
+    font-size: 16px;
+    font-weight: 500;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+}
+
+.contact-info{
+    color: grey;
+}
+
+.account-info{
+    font-weight: 700;
+    color:rgba(10, 7, 7, 0.6);
+   
+}
+
+.input_signup{
+    border: 1px solid grey;
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+}
+
+input.input_signup:focus{
+    outline: none;
+}
+
+.text-affiliate{
+    font-size: 16px;
+    font-weight: 450;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+    margin-bottom: 10px;
+}
+
+.container-right-signup{
+    margin-top:100px;
+   
+    width: 50%;
+    
+}
+
+
+.form-right-signup{
+    padding-left:50px;
+    margin-bottom: 50px;
+}
+
+.container-right-signup{
+    margin-top:100px;
+    width: 50%;
+    
+}
+
+.merchant-container-signup{
+    margin-top: 30px;
+}
+
+.merchant-bio{
+    margin-top: 50px;
+    font-weight: 700;
+    color:rgba(10, 7, 7, 0.6);
+}
+
+.merchant-des{
+    font-size: 16px;
+    font-weight: 450;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+   
+}
+
+.merchant-input{
+    width: 100%;
+}
+
+input.merchant-input{
+    outline: none;
+}
+
+.regulation-container{
+    margin-top: 20px;
+}
+
+.affilate-approval-conatiner{
+    margin-top: 20px;
+}
+
+.pay-container{
+    margin-top: 20px;
+}
+
+.pay-info{
+    margin-left: 25%;
+    text-align: center;
+    font-weight: 700;
+    color:rgba(10, 7, 7, 0.6);
+    
+}
+
+.tigo-icon{
+
+    width: 140px;
+    height: 120px;
+    
+    margin-top: -24px;
+    border-radius: 10px;
+    margin-left: 30px;
+}
+
+.airtel-icon{
+
+    width: 200px;
+    height: 120px;
+    
+    margin-top: -24px;
+    border-radius: 10px;
+    margin-left: -30px;
+}
+
+.container-one-item{
+    margin:50px auto;
+   
+    width: 50%;
+    
+}
+
+.container-image-one-item{
+    padding-left: 25%;
+}
+
+.image-one-item{
+    width: 400px;
+    height: 400px;
+}
+
+.one-item-name{
+  margin-top: 10px;
+  padding-left: 10%;
+  font-size: 50px;
+  color: grey;
+  font-weight: 600;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.one-item-text{
+    padding-left: 12%;
+    padding-right: 12%;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: 545;
+    color: grey;
+}
+
+.one-item-amount{
+    color: orange;
+    font-size: 40px;
+    font-weight: 600;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 12%;
+}
+
+.one-item-buy{
+
+    width: 300px;
+    height: 50px;
+    margin-left: 12%;
+    border-radius: 10px;
+    background-color: black;
+    color: orange;
+    font-size: 30px;
+    border-color: black;
+}
+
+button.one-item-buy{
+    
+    outline: none;
+}
+
+.select_prod{
+    width: 180px;
+    height: 30px;
+    border-radius: 6px;
+}
+
+select.select_prod:focus{
+    outline: none;
+}
+
+.select-btn{
+    margin-left: 2%;
+    margin-right: 35%;
+    
+}
+
+select.select-btn:focus{
+    outline: none;
+}
+
+select.select-btn:active{
+    outline: none;
+}
+
+.select-btn-two{
+    margin-left: 30%;
+}
+
+.number-input{
+    width: 40px;
+}
