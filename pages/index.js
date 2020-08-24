@@ -23,12 +23,12 @@ function Home({data,data1,data2}) {
      
     </div>
   )
-}
+}http://localhost:3000/api/shoeApi
 
 Home.getInitialProps = async ()=>{
-  const response = await fetch('http://localhost:3000/api/shoeApi')
-  const response1 = await fetch('http://localhost:3000/api/electronicApi')
-  const response2 = await fetch('http://localhost:3000/api/bookApi')
+  const response = await fetch('https://eshopsy.vercel.app/api/shoeApi')
+  const response1 = await fetch('https://eshopsy.vercel.app/api/electronicApi')
+  const response2 = await fetch('https://eshopsy.vercel.app/api/bookApi')
   const data = await response.json()
   const data1 = await response1.json()
   const data2 = await response2.json()
